@@ -1,0 +1,6 @@
+com\mycompany\mvnwebapp2311\JakartaRestConfiguration.class
+config\conexion.class
+controlador\alumnosController.class
+modelo\alumnosDAO.class
+com\mycompany\mvnwebapp2311\resources\JakartaEE9Resource.class
+modelo\alumnos.class
